@@ -20,6 +20,7 @@ BTC ANN: https://bitcointalk.org/index.php?topic=2144531.0<br>
 Online Store: https://store.ganjacoinpro.com<br>
 SharedNode Status: https://sharednode.ganjacoinpro.com<br>
 Discord: https://discord.gg/UxF8GJk
+Explorer: https://explorer.ganjacoinpro.com/
 <br>
 <br>
 <h1>SOCIAL MEDIA </h1>
